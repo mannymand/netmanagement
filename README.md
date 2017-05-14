@@ -1,5 +1,5 @@
 # Network Management Tool
-Program to allow network administrators to supervise individual devices in a network, whether it be a switch, a router or any other SNMP enabled device. The objective of this final project was to write a tool in C++ that allows management of a network that may have up to 10 switches and 5 routers. Another requirement for this project was being able to turn a network device on or off and print information about the respective device. 
+Program to allow network administrators to supervise individual devices in a network, whether it be a switch, a router or any other SNMP enabled device. The objective of this final project was to write a tool in C++ that allows management of a network that may have up to 10 switches and 5 routers. 
 
 This program achieves the following;
 •Initializes the random access file switches.dat to 10 empty records  
